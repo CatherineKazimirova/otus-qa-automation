@@ -1,5 +1,5 @@
 .idea/
-venv/
+.venv/
 result.json
 users.json
 books.csv
