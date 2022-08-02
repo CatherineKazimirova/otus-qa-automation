@@ -1,5 +1,7 @@
-input
-venv
+.idea/
+venv/
 result.json
 users.json
 books.csv
+
+
