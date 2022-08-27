@@ -1,7 +1,5 @@
 .idea/
-.venv/
-result.json
-users.json
-books.csv
-
+venv/
+.pytest_cache/
+requirements.txt
 
